@@ -1,1 +1,7 @@
-{}
+{
+"product:1":{"value":"Phone","expiry":0},
+"user:1":{"value":"Alice","expiry":0},
+"a":{"value":"100","expiry":0},
+"user:2":{"value":"Bob","expiry":0},
+"counter":{"value":"0","expiry":0}
+}
