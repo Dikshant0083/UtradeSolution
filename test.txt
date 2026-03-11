@@ -1,0 +1,9 @@
+SET user:1 Alice EX 10
+GET user:1
+TTL user:1
+SET counter 0
+KEYS user:*
+DEL user:1
+GET user:1
+STATS
+SAVE
