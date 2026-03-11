@@ -310,5 +310,6 @@ Future extensions could include:
 
 # Author
 
-Mini Project Submission
+Dikshant Choudhary  
+Mini Project Submission  
 uTrade Solutions Campus Hiring 2026
